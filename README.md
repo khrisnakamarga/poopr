@@ -2,6 +2,10 @@
 
 Poopr is a mobile-first web app for quick poop logging, personal poop statistics, group dashboards, leaderboards, and invite-code groups.
 
+## Making Changes Yourself
+
+Start with the [development guide](docs/development.md) to run the app, find the right files, and work through common edits. The [contribution guide](CONTRIBUTING.md) explains how to check your changes and put them on GitHub. See [architecture](docs/architecture.md) for the domain and privacy model.
+
 ## Stack
 
 - Frontend: React, TypeScript, Vite, Recharts, Lucide icons
